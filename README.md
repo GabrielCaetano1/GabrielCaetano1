@@ -15,7 +15,6 @@ Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e cont
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
----
 
 ### 🛠️ Ferramentas
 
