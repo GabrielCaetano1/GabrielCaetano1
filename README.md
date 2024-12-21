@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil 👋
 
-Me chamo Gabriel Caetano e aqui você encontrará meus pequenos projetos e contribuições.
+Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e contribuições.
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCaetano1&show_icons=true&theme=holi)](https://github.com/GabrielCaetano1/github-readme-stats)
 
