@@ -3,7 +3,7 @@
 Me chamo Gabriel Caetano e aqui você encontrará meus pequenos projetos e contribuições.
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaetano1&theme=holi&layout=compact)](https://github.com/GabrielCaetano1/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCaetano1&show_icons=true&theme=holi)](https://github.com/GabrielCaetano1/github-readme-stats)
 
 ### 🌐 Tecnologias e Habilidades
 <div style="display: inlineblock"><br/>
@@ -27,7 +27,7 @@ Me chamo Gabriel Caetano e aqui você encontrará meus pequenos projetos e contr
 ![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaetano1&theme=holi&layout=compact)](https://github.com/GabrielCaetano1/github-readme-stats)
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCaetano1&show_icons=true&theme=holi)](https://github.com/GabrielCaetano1/github-readme-stats)
 
 
