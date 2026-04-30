@@ -5,7 +5,7 @@ Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e cont
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCaetano1&show_icons=true&theme=holi)](https://github.com/GabrielCaetano1/github-readme-stats)
 
 ### 🌐 Tecnologias e Habilidades
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center;">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
