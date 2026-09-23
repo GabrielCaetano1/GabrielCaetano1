@@ -1,10 +1,14 @@
 <div align="right">
+  <h1>Bem vindo ao meu perfil! Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e contribuições.</h1>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCaetano1.GabrielCaetano1&right_color=cornflowerblue&left_text=Visitantes"/>
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/github/stars/GabrielCaetano1/GabrielCaetano1?style=flat-square&logo=github&label=STARS&color=e05252"/>
+  <img src="https://img.shields.io/github/forks/GabrielCaetano1/GabrielCaetano1?style=flat-square&logo=github&label=FORKS&color=e08c3a"/>
 </div>
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="100%">
 <pre>
 ⠀⠀⠀⣤⣴⣾⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄
 ⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢰⣦⣄⣀⣀⣠⣴⣾⣿⠃
@@ -109,7 +113,7 @@ gabrielcaetano @ github
 >  </tr>
 > </table>
 
----
+
 
 <h2 align="center">📱 Contato:</h2>
 <div align="center">
