@@ -1,31 +1,136 @@
-## Olá! Bem vindo ao meu perfil 👋
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCaetano1.GabrielCaetano1&right_color=cornflowerblue&left_text=Visitantes"/>
+</div>
 
-Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e contribuições.
+<table>
+<tr>
+<td valign="top" width="40%">
+<pre>
+        ▄████████████▄
+      ▄█░░░░░░░░░░░░░░█▄
+     █░░░░▄████▄░░░░░░░░█
+    █░░░░█░░░░░█░░░░░░░░░█
+    █░░░░█░░░░░█████░░░░░█
+    █░░░░█░░░░░█░░░░█░░░░█
+    █░░░░█░░░░░█████░░░░░█
+    █░░░░█░░░░░█░░░░░░░░░█
+    █░░░░▀████▀░░░░░░░░░░█
+     █░░░░░░░░░░░░░░░░░░█
+      ▀█░░░░░░░░░░░░░░█▀
+        ▀████████████▀
+</pre>
+</td>
+<td valign="top">
+<pre>
+gabrielcaetano @ github
+───────────────────────────────────────────
+ OS ...........: Windows 11
+ Shell ........: PowerShell
+ Editor .......: VS Code
+───────────────────────────────────────────
+ Languages ....: JS · TS · Python · C# · Java
+ Frameworks ...: React · Next.js · Node.js
+                 Tailwind · PyTorch
+ Databases ....: MySQL · SQLite · PostgreSQL
+ Tools ........: Git · Express.js
+───────────────────────────────────────────
+ Interesse ....: Dev Web · IA · Dados
+ Aprendendo ...: C# · Java
+───────────────────────────────────────────
+ GitHub .......: github.com/GabrielCaetano1
+ LinkedIn .....: linkedin.com/in/GabrielCaetano1
+───────────────────────────────────────────
+</pre>
+</td>
+</tr>
+</table>
+
+###
+
+<!-- Tech Stack Section -->
+<h2 align="center">< tech_stack ></h2>
+
+> ### Linguagens de Programação
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=js"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=ts"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=python"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=cs"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=java"/></td>
+>  </tr>
+>  <tr>
+>  <td>JavaScript</td>
+>  <td>TypeScript</td>
+>  <td>Python</td>
+>  <td>C#</td>
+>  <td>Java</td>
+>  </tr>
+> </table>
+
+> ### Libraries & Frameworks
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=html"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=css"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=react"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=nextjs"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=nodejs"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=tailwind"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=pytorch"/></td>
+>  </tr>
+>  <tr>
+>  <td>HTML</td>
+>  <td>CSS</td>
+>  <td>React</td>
+>  <td>Next.js</td>
+>  <td>Node.js</td>
+>  <td>Tailwind</td>
+>  <td>PyTorch</td>
+>  </tr>
+> </table>
+
+> ### Ferramentas & Bancos de Dados
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=git"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=github"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=mysql"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=sqlite"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=postgres"/></td>
+>  <td align="center"><img width="32" height="32" src="https://skillicons.dev/icons?i=express"/></td>
+>  </tr>
+>  <tr>
+>  <td>Git</td>
+>  <td>GitHub</td>
+>  <td>MySQL</td>
+>  <td>SQLite</td>
+>  <td>PostgreSQL</td>
+>  <td>Express.js</td>
+>  </tr>
+> </table>
+
+---
+
+<h2 align="center">< socials ></h2>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/GabrielCaetano1"> <img width="64" height="64" src="https://github.com/user-attachments/assets/069fe109-120b-4b10-8c6c-53f0ec0f753c" alt="LinkedIn"/> </a>
+<a href="https://github.com/GabrielCaetano1"> <img width="64" height="64" src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </a>
+
+</div>
+
+
+
+
+<!-- PacMan -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCaetano1/GabrielCaetano1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCaetano1/GabrielCaetano1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCaetano1/GabrielCaetano1/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ![DANGER](https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c)
-
-### 🌐 Tecnologias e Habilidades
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🛠️ Ferramentas
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
