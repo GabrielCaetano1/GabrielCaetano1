@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <h1>Bem vindo ao meu perfil! Me chamo Gabriel Caetano, e aqui você encontrará meus pequenos projetos e contribuições.</h1>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCaetano1.GabrielCaetano1&right_color=cornflowerblue&left_text=Visitantes"/>
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square&logo=github"/>
@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="100%" >
 <pre>
 ⠀⠀⠀⣤⣴⣾⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄
 ⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢰⣦⣄⣀⣀⣠⣴⣾⣿⠃
