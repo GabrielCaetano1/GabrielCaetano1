@@ -6,39 +6,38 @@
 <tr>
 <td valign="top" width="40%">
 <pre>
-        ▄████████████▄
-      ▄█░░░░░░░░░░░░░░█▄
-     █░░░░▄████▄░░░░░░░░█
-    █░░░░█░░░░░█░░░░░░░░░█
-    █░░░░█░░░░░█████░░░░░█
-    █░░░░█░░░░░█░░░░█░░░░█
-    █░░░░█░░░░░█████░░░░░█
-    █░░░░█░░░░░█░░░░░░░░░█
-    █░░░░▀████▀░░░░░░░░░░█
-     █░░░░░░░░░░░░░░░░░░█
-      ▀█░░░░░░░░░░░░░░█▀
-        ▀████████████▀
+⠀⠀⠀⣤⣴⣾⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄
+⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢰⣦⣄⣀⣀⣠⣴⣾⣿⠃
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⣼⣿⡿⠿⠛⠻⠿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀
+⠀⠀⠉⠀⠀⠀⢀⠀⠀⠀⠈⠁⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀
+⠀⠀⣠⣴⣶⣿⣿⣿⣷⣶⣤⠀⠀⠀⠈⠉⠛⠛⠛⠉⠉⠀⠀⠀
+⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣶⣦⣄⣀⣀⣀⣤⣤⣶⠀⠀
+⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀
+⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+⢠⣿⡿⠿⠛⠉⠉⠉⠛⠿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀
+⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⠛⠀⠀⠀
 </pre>
 </td>
 <td valign="top">
 <pre>
 gabrielcaetano @ github
 ───────────────────────────────────────────
- OS ...........: Windows 11
- Shell ........: PowerShell
- Editor .......: VS Code
+ OS ...........: Windows, Fedora, Arch
+ Shell ........: PowerShell, Bash, Alacritty, zsh
+ Editor .......: VS Code, Visual Studio
 ───────────────────────────────────────────
  Languages ....: JS · TS · Python · C# · Java
  Frameworks ...: React · Next.js · Node.js
                  Tailwind · PyTorch
- Databases ....: MySQL · SQLite · PostgreSQL
+ Databases ....: MySQL · SQLite · PostgreSQL · Supabase
  Tools ........: Git · Express.js
 ───────────────────────────────────────────
- Interesse ....: Dev Web · IA · Dados
+ Interesse ....: Dev Web · IA · Software Architecture 
  Aprendendo ...: C# · Java
 ───────────────────────────────────────────
  GitHub .......: github.com/GabrielCaetano1
- LinkedIn .....: linkedin.com/in/GabrielCaetano1
+ LinkedIn .....: linkedin.com/in/gabriel-caetano-492a512bb/
 ───────────────────────────────────────────
 </pre>
 </td>
@@ -48,7 +47,7 @@ gabrielcaetano @ github
 ###
 
 <!-- Tech Stack Section -->
-<h2 align="center">< tech_stack ></h2>
+<h2 align="center">💻 Tecnologias:</h2>
 
 > ### Linguagens de Programação
 >  <table width="100%">
@@ -112,7 +111,7 @@ gabrielcaetano @ github
 
 ---
 
-<h2 align="center">< socials ></h2>
+<h2 align="center">📱 Contato:</h2>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/GabrielCaetano1"> <img width="64" height="64" src="https://github.com/user-attachments/assets/069fe109-120b-4b10-8c6c-53f0ec0f753c" alt="LinkedIn"/> </a>
@@ -120,7 +119,7 @@ gabrielcaetano @ github
 
 </div>
 
-
+![AutumnFall](https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a)
 
 
 <!-- PacMan -->
