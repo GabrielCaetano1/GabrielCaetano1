@@ -2,14 +2,12 @@
   <h1>Bem vindo ao meu perfil! Sou o Gabriel, e aqui você encontrará meus pequenos projetos e contribuições.</h1>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCaetano1.GabrielCaetano1&right_color=cornflowerblue&left_text=Visitantes"/>
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/stars/GabrielCaetano1/GabrielCaetano1?style=flat-square&logo=github&label=STARS&color=e05252"/>
-  <img src="https://img.shields.io/github/forks/GabrielCaetano1/GabrielCaetano1?style=flat-square&logo=github&label=FORKS&color=e08c3a"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
-<td valign="top">
+<td valign="top" >
 <pre>
 ⠀⠀⠀⠤⡴⢾⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡄
 ⠀⠀⠠⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠰⣶⣤⣀⣀⣀⠠⡴⢾⣿⠃
@@ -24,7 +22,7 @@
 ⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⣿⣿⣿⣿⣿⣏⠛⠀⠀⠀
 </pre>
 </td>
-<td valign="top">
+<td valign="top" align="left">
 <pre>
 gabrielcaetano @ github
 ───────────────────────────────────────────
@@ -33,8 +31,7 @@ gabrielcaetano @ github
  Editor .......: VS Code, Visual Studio
 ───────────────────────────────────────────
  Languages ....: JS · TS · Python · C# · Java
- Frameworks ...: React · Next.js · Node.js
-                 Tailwind · PyTorch
+ Frameworks ...: React · Next.js · Node.js · Tailwind · PyTorch
  Databases ....: MySQL · SQLite · PostgreSQL · Supabase
  Tools ........: Git · Express.js
 ───────────────────────────────────────────
